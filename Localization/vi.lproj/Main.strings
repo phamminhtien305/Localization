@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "Invite Friends"; ObjectID = "QWb-L8-BGh"; */
+"QWb-L8-BGh.normalTitle" = "Invite Friends";
+
+/* Class = "UIButton"; normalTitle = "Share Application"; ObjectID = "RuT-QW-bXK"; */
+"RuT-QW-bXK.normalTitle" = "Share Application";
+
+/* Class = "UILabel"; text = "version 1.0"; ObjectID = "flo-rY-aLa"; */
+"flo-rY-aLa.text" = "version 1.0";
+
+/* Class = "UIButton"; normalTitle = "Feedback"; ObjectID = "gl1-fX-zvH"; */
+"gl1-fX-zvH.normalTitle" = "Feedback";
+
+/* Class = "UIButton"; normalTitle = "Language"; ObjectID = "gu8-iO-daq"; */
+"gu8-iO-daq.normalTitle" = "Language";
+
+/* Class = "UILabel"; text = "Developed by XXX"; ObjectID = "iKo-1d-yJ5"; */
+"iKo-1d-yJ5.text" = "Developed by XXX";
+
+/* Class = "UITextView"; text = "Together we change the world."; ObjectID = "o6A-eR-qBE"; */
+"o6A-eR-qBE.text" = "Together we change the world.";
+
+/* Class = "UILabel"; text = "en"; ObjectID = "r1J-LK-d17"; */
+"r1J-LK-d17.text" = "en";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "wWj-a5-ebn"; */
+"wWj-a5-ebn.text" = "About";

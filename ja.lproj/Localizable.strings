@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Pham Tien on 10/25/16.
+  Copyright © 2016 Pham Minh Tien. All rights reserved.
+*/
+
+
+"Share Application" = "共有アプリケーション";
+"Invite Friends" = "友達を招待";
+"Feedback" = "フィードバック";
+"Language" = "言語";
+"About" = "約";
+"version" = "バージョン";
+"Developed by" = "によって開発された";
+"Together we change the world." = "一緒に私たちは世界を変えます";

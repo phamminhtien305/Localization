@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Pham Tien on 10/25/16.
+  Copyright © 2016 Pham Minh Tien. All rights reserved.
+*/
+
+"Share Application" = "Chia sẻ ứng dụng";
+"Invite Friends" = "Giới thiệu bạn bè";
+"Feedback" = "Phản hồi";
+"Language" = "Ngôn ngữ";
+"About" = "Thông tin ứng dụng";
+"version" = "Phiên bản";
+"Developed by" = "Phát triển bới";
+"Together we change the world." = "Cùng chúng tôi thay đổi thế giới ^^!";
